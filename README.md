@@ -13,7 +13,7 @@ SquaryFi is an ESP-12E-based square LCD display that features a compact and appe
 
 ## Documentation
 
-* [AiryFi Software](https://github.com/sbcshop/AiryFi_Software)
+* [SquaryFi Software](https://github.com/sbcshop/SquaryFi-Software)
 * [Getting Started with NodeMCU](http://www.nodemcu.com/index_en.html)
 * [NodeMCU Github Examples](https://github.com/orgs/nodemcu/repositories)
 * [NodeMCU Datasheet](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf)
